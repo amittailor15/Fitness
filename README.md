@@ -1,4 +1,4 @@
-# Project 1
+# Project
 This is my First Project of Responsive Website using HTML and CSS
 "Fitness"
 
